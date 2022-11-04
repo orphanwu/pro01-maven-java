@@ -12,5 +12,6 @@ public class CalcultorTest {
             throw new Exception();
         }
         System.out.println("hello");
+        System.out.println("hello git");
     }
 }
